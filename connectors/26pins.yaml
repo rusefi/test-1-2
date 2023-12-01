@@ -1,0 +1,161 @@
+pins:
+  - pin: 1D
+    function:
+
+  - pin: 2D
+    function:
+
+  - pin: 3D
+    function:
+
+  - pin: 4D
+    function:
+
+  - pin: 5D
+    function:
+
+  - pin: 6D
+    function:
+
+  - pin: 7D
+    function:
+
+  - pin: 8D
+    function:
+
+  - pin: 9D
+    function:
+
+  - pin: 10D
+    function:
+
+  - pin: 11D
+    function:
+
+  - pin: 12D
+    function:
+
+  - pin: 13D
+    function:
+
+  - pin: 14D
+    function:
+
+  - pin: 15D
+    function:
+
+  - pin: 16D
+    function:
+
+  - pin: 17D
+    function:
+
+  - pin: 18D
+    function:
+
+  - pin: 19D
+    function:
+
+  - pin: 20D
+    function:
+
+  - pin: 21D
+    function: INJ1 (p35b-3 LS1)
+
+  - pin: 22D
+    function: INJ2 (p35b-15 LS2)
+
+  - pin: 23D
+    function: INJ3 (p35b-4 LS3)
+
+  - pin: 24D
+    function: INJ4 (p35b-16 LS4)
+
+  - pin: 25D
+    function: GDI_PUMP_CONTROL (p35b-6 LS6)
+
+  - pin: 26D
+    function: unused
+
+info:
+  image:
+    file: 26pins-4k.jpg
+  pins:
+    - pin: 1D
+      x: 85
+      y: 90
+    - pin: 2D
+      x: 110
+      y: 90
+    - pin: 3D
+      x: 135
+      y: 90
+    - pin: 4D
+      x: 160
+      y: 90
+    - pin: 5D
+      x: 185
+      y: 90
+    - pin: 6D
+      x: 205
+      y: 90
+    - pin: 7D
+      x: 230
+      y: 90
+    - pin: 8D
+      x: 100
+      y: 120
+    - pin: 9D
+      x: 125
+      y: 120
+    - pin: 10D
+      x: 145
+      y: 120
+    - pin: 11D
+      x: 170
+      y: 120
+    - pin: 12D
+      x: 195
+      y: 120
+    - pin: 13D
+      x: 220
+      y: 120
+    - pin: 14D
+      x: 100
+      y: 150
+    - pin: 15D
+      x: 125
+      y: 150
+    - pin: 16D
+      x: 145
+      y: 150
+    - pin: 17D
+      x: 170
+      y: 150
+    - pin: 18D
+      x: 195
+      y: 150
+    - pin: 19D
+      x: 220
+      y: 150
+    - pin: 20D
+      x: 85
+      y: 180
+    - pin: 21D
+      x: 110
+      y: 180
+    - pin: 22D
+      x: 135
+      y: 180
+    - pin: 23D
+      x: 155
+      y: 180
+    - pin: 24D
+      x: 180
+      y: 180
+    - pin: 25D
+      x: 205
+      y: 180
+    - pin: 26D
+      x: 230
+      y: 180
